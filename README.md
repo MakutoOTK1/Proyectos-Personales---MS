@@ -1,2 +1,3 @@
-# Proyectos-Personales---MS
-Conjunto de los proyectos personales que vaya haciendo. 
+El "Read me" sirve para documentar los proyectos.
+
+Me pica el culo
